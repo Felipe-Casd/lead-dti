@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projeto\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\data\\leadscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\data\\leadscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\models\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|d:\\projeto\\backend\\teste\\migrations\\20250905141953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474A44A7-EC50-4E85-8F4D-858771F93A7A}|teste\\teste.csproj|solutionrelative:teste\\migrations\\20250905141953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "teste\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Properties\\launchSettings.json",
+              "RelativeToolTip": "teste\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T14:22:59.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250905141953_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Migrations\\20250905141953_InitialCreate.cs",
+              "RelativeDocumentMoniker": "teste\\Migrations\\20250905141953_InitialCreate.cs",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Migrations\\20250905141953_InitialCreate.cs",
+              "RelativeToolTip": "teste\\Migrations\\20250905141953_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:19:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "teste\\Controllers\\LeadsController.cs",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "teste\\Controllers\\LeadsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:19:09.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Program.cs",
+              "RelativeDocumentMoniker": "teste\\Program.cs",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Program.cs",
+              "RelativeToolTip": "teste\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:18:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\appsettings.json",
+              "RelativeDocumentMoniker": "teste\\appsettings.json",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\appsettings.json",
+              "RelativeToolTip": "teste\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T14:17:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeadsContext.cs",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Data\\LeadsContext.cs",
+              "RelativeDocumentMoniker": "teste\\Data\\LeadsContext.cs",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Data\\LeadsContext.cs",
+              "RelativeToolTip": "teste\\Data\\LeadsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:11:51.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "D:\\Projeto\\BackEnd\\teste\\Models\\Lead.cs",
+              "RelativeDocumentMoniker": "teste\\Models\\Lead.cs",
+              "ToolTip": "D:\\Projeto\\BackEnd\\teste\\Models\\Lead.cs",
+              "RelativeToolTip": "teste\\Models\\Lead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:10:32.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
