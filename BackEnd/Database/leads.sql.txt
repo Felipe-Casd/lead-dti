@@ -1,0 +1,19 @@
+CREATE TABLE Leads (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    FirstName NVARCHAR(50),
+    LastName NVARCHAR(50),
+    Email NVARCHAR(100),
+    Phone NVARCHAR(20),
+    Suburb NVARCHAR(100),
+    Category NVARCHAR(50),
+    Description NVARCHAR(MAX),
+    Price DECIMAL(18,2),
+    Status NVARCHAR(20),
+    DateCreated DATETIME NOT NULL
+);
+
+INSERT INTO Leads (FirstName, LastName, Email, Phone, Suburb, Category, Description, Price, Status, DateCreated)
+VALUES
+('John', 'Doe', 'john@test.com', '123456789', 'SuburbA', 'Category1', 'Lead Description 1', 600, 'Invited', GETDATE()),
+('Jane', 'Smith', 'jane@test.com', '987654321', 'SuburbB', 'Category2', 'Lead Description 2', 400, 'Invited', GETDATE()),
+('Alice', 'Johnson', 'alice@test.com', '555123456', 'SuburbC', 'Category3', 'Lead Description 3', 700, 'Invited', GETDATE());
